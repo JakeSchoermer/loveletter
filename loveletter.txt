@@ -2,6 +2,27 @@ Dear Euan,
 
 We all love you so very much, despite your previous affections for SVN.
 
+
+     ________           ________
+    /  ______  \       /  ______  \
+  /  /        \  \   /  /        \  \
+ /  /            \  "  /            \  \
+|  |               \ /               |  |
+|  |                "                |  |
+|  |                                 |  |
+|  |                               |  |
+|  |                             |  |
+|  |                         |  |
+|  |                     |  |
+ |  |                 |  |
+   |  |             |  |
+     |  |         |  |
+       |  |     |  |
+         |  | |  |
+           | | |
+            | |
+             |
+
 Love,
 
 Git
